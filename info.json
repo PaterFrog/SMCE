@@ -1,0 +1,12 @@
+{
+  "name": "SMCE",
+  "version": "0.0.1",
+  "factorio_version": "0.16.0",
+  "title": "SMCE",
+  "author": "PaterFrog",
+  "contact": "https://www.reddit.com/user/PaterFrog",
+  "homepage": "https://www.reddit.com/r/factorio/comments/abo6eg/i_want_to_create_a_new_early_game_robots_mod/",
+  "description": "SMCE",
+  "dependencies": ["base >= 0.16.51"],
+  "license": "MIT"
+}
