@@ -1,5 +1,3 @@
---control.lua
-
 script.on_event(defines.events.on_player_created, function(event)
 	local player = game.players[event.player_index]
 		local inventory =  player.get_main_inventory()
